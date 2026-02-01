@@ -12,6 +12,7 @@ Antes de começar, certifique-se de ter instalado:
 - **Docker Compose**
 - **Python 3.10+**
 - **Git** (opcional, mas recomendado)
+- **Ollama** (https://ollama.com/library/llama3.1)
 
 ---
 
